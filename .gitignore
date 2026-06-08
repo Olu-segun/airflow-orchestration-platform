@@ -1,6 +1,7 @@
 .env
 logs/
 airflow/logs/
+config/airflow.cfg
 airflow/plugins/__pycache__/
 .venv/
 __pycache__/
