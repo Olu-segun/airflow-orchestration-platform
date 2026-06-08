@@ -1,0 +1,3 @@
+dbt-snowflake
+apache-airflow-providers-airbyte
+apache-airflow-providers-smtp
